@@ -1,0 +1,25 @@
+{
+  "name": "excelparser",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000x\u0000c\u0000e\u0000l\u0000P\u0000a\u0000r\u0000s\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "excelreader.js",
+  "dependencies": {
+    "node": "^19.3.0",
+    "nodemon": "^2.0.20",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samliudev/ExcelParser.git"
+  },
+  "author": "samliudev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samliudev/ExcelParser/issues"
+  },
+  "homepage": "https://github.com/samliudev/ExcelParser#readme"
+}
