@@ -1,5 +1,5 @@
 const reader = require('xlsx')
-const file = reader.readFile('./ExcelInput/input.xlsx')
+const file = reader.readFile('./Input/input.xlsx')
 
 let excelData = [] // contains all the information from the excel sheet
 
